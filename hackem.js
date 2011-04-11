@@ -8,6 +8,7 @@
 
 // Loadem Up! 
 window.bookmarklet = (function(opts){fullFunc(opts)})({
+    hnuBase: "https://github.com/adityavmr/HackemUp/raw/master/",
     css : [hnuBase + "hackemup.css"],
     js  : [
         hnuBase + "hackemup.js",
