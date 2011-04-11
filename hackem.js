@@ -8,10 +8,10 @@
 
 // Loadem Up! 
 window.bookmarklet = (function(opts){fullFunc(opts)})({
-    css : ["https://github.com/adityavm/HackemUp/raw/master/hackemup.css"],
+    css : ["https://github.com/mrspeaker/HackemUp/raw/master/hackemup.css"],
     js  : [
-        "https://github.com/adityavm/HackemUp/raw/master/hackemup.js",
-        "https://github.com/adityavm/HackemUp/raw/master/hackemtimer.js"
+        "https://github.com/mrspeaker/HackemUp/raw/master/hackemup.js",
+        "https://github.com/mrspeaker/HackemUp/raw/master/hackemtimer.js"
     ],
     ready : function() {
 
