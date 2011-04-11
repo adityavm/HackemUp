@@ -17,7 +17,7 @@ Written and directed by:
         mail = _@gmail.com,
         tubes = http://_.net;
 
-Also staring:
+Also starring:
     jQuery Bookmarklet - version 1.0
     Originally written by: Brett Barros
     With modifications by: Paul Irish
