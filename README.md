@@ -1,12 +1,11 @@
-# Hack'em Up: A Hacker News bookmarklet
+# Hack'em Up: A Hacker News <strike>bookmarklet</strike>Userscript!
 
 Welcome to a Hacker News Bookmarklet...
-"Hack'em Up" by Mr Speaker
+"Hack'em Up" by Mr Speaker, modified to work as a userscript by Aditya Mukherjee
 v1.0
 
 Screen play:
-    Drag bookmarklet to a tab that is opened to 
-         http://www.ycombinator.com/news
+    Install userscript from http://userscripts.org/scripts/show/100977
     Every 2 minutes the page will be refreshed and
     changes (to ranks, comments, votes, karma)
     will be highlighted.
@@ -21,4 +20,3 @@ Also starring:
     jQuery Bookmarklet - version 1.0
     Originally written by: Brett Barros
     With modifications by: Paul Irish
-
